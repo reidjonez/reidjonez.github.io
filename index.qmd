@@ -1,34 +1,34 @@
 ---
-title: "My Name"       # the title of the index page
+title: "Reid Jones"
 about:
-  # template types
-  #template: jolla
   template: trestles
-  #template: broadside
-  # image details
   image: files/profile-pic.jpg
-  image-width: 20em            # to adjust size
-  image-shape: round           # to make round
-  
+  image-width: 20em
+  image-shape: round
   links:
-    # add others
     - icon: linkedin
-      href: https://www.linkedin.com/school/claremont-mckenna-college/posts/?feedView=all
-    - icon: twitter-x
-      href: https://x.com/CMCnews
-
+      text: LinkedIn
+      href: https://www.linkedin.com/in/reidjones22
+    - icon: file-earmark-pdf
+      text: Resume
+      href: files/resume.pdf
 ---
 
-I am a ... blah blah
+I'm a senior at Claremont McKenna College studying Economics with a Data Science sequence. I'm interested in real estate, finance, and using data to tell clearer stories. Outside of class, I captain the CMS Men's Basketball team, serve as Senior Class President, and work as an RA.
 
 ## Education
 
-Institution | City, State
-B.A in Degree | start - finish
+Claremont McKenna College | Claremont, CA
+B.A. in Economics, Data Science Sequence | 2023 - 2027
 
 ## Experience
 
-Organization A | Title | start - finish
+Kroll, Real Estate Advisory Group | Summer Analyst | Summer 2026
 
-Organization b | Title | start - finish
+Waterford Property Company | Summer Analyst | Summer 2025
 
+Claremont McKenna College | Senior Class President | 2026 - 2027
+
+Claremont McKenna College | Resident Assistant | 2026 - 2027
+
+CMS Men's Basketball | Team Captain | 2025 - Present
