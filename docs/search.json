@@ -4,7 +4,7 @@
     "href": "pages/project/page01.html",
     "title": "This is the pages/project/page01.qmd title",
     "section": "",
-    "text": "This is a Quarto website."
+    "text": "This is a Quarto website. This is a file for a decidated page for your website. This file is only needed if you do not build your website as a single page in pages/index.qmd"
   },
   {
     "objectID": "pages/project/page01.html#this-is-a-header",
@@ -37,23 +37,23 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "My Name",
+    "title": "Reid Jones",
     "section": "",
-    "text": "I am a … blah blah"
+    "text": "I’m a senior at Claremont McKenna College studying Economics with a Data Science sequence. I’m interested in real estate, finance, and using data to tell clearer stories. Outside of class, I captain the CMS Men’s Basketball team, serve as Senior Class President, and work as an RA."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "My Name",
+    "title": "Reid Jones",
     "section": "Education",
-    "text": "Education\nInstitution | City, State B.A in Degree | start - finish"
+    "text": "Education\nClaremont McKenna College | Claremont, CA B.A. in Economics, Data Science Sequence | 2023 - 2027"
   },
   {
     "objectID": "index.html#experience",
     "href": "index.html#experience",
-    "title": "My Name",
+    "title": "Reid Jones",
     "section": "Experience",
-    "text": "Experience\nOrganization A | Title | start - finish\nOrganization b | Title | start - finish"
+    "text": "Experience\nKroll, Real Estate Advisory Group | Summer Analyst | Summer 2026\nWaterford Property Company | Summer Analyst | Summer 2025\nClaremont McKenna College | Senior Class President | 2026 - 2027\nClaremont McKenna College | Resident Assistant | 2026 - 2027\nCMS Men’s Basketball | Team Captain | 2025 - Present"
   },
   {
     "objectID": "about.html",
@@ -74,7 +74,7 @@
     "href": "pages/project/index.html",
     "title": "This is the pages/project/index page title",
     "section": "",
-    "text": "This is a Quarto website."
+    "text": "This is a Quarto website. This pages/project/index.qmd file could very well contain all of your plots and your entire data story if your goal is present such a story linearly. If so, you can remove teh content needed for the pages/page01.qmd file and adjust your _quarto.yml file to remove the Drop down tab from the navbar (left). If your story is linear, just be careful to arrange your headers, plots, and written content in the order they should appear."
   },
   {
     "objectID": "pages/project/index.html#this-is-a-header",
